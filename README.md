@@ -1,4 +1,4 @@
-# glider_trajectory_bootcamp
+# glider_trajectory_bootcamp (Kinematic & Dynamic of Slocum Glider)
 
 
 
