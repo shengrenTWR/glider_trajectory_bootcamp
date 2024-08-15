@@ -1,5 +1,5 @@
 # glider_trajectory_bootcamp (Kinematic & Dynamic of Slocum Glider)
-
+The code is mainly based on [GliderFlight for Slocum ocean gliders (code)](https://gliderflight.readthedocs.io/en/latest/readme.html).
 
 
 ## Helpful links and documents 
