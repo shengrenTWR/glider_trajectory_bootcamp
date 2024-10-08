@@ -1,8 +1,8 @@
 # glider_trajectory_bootcamp (Kinematic & Dynamic of Slocum Glider)
 The code is mainly based on [GliderFlight for Slocum ocean gliders (code)](https://gliderflight.readthedocs.io/en/latest/readme.html).
 
-main file (code):  data_cleaning2.ipynb
-raw data: glider_august.csv
+#### main file (code):  data_cleaning2.ipynb
+#### raw data: glider_august.csv
 
 ## Helpful links and documents 
 [Glider dynamic and kinematic (Google slides)](https://docs.google.com/presentation/d/1ZoWUVIz8ui_Dn70IyTKe48IgICiGGMTfywm1vR88lHo/edit?usp=sharing)
