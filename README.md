@@ -2,7 +2,7 @@
 The code is mainly based on [GliderFlight for Slocum ocean gliders (code)](https://gliderflight.readthedocs.io/en/latest/readme.html).
 
 #### main file (code):  **data_cleaning2.ipynb**
-#### raw data: **glider_august.csv**
+#### raw data: [**glider_august.csv (download via link)**](https://uflorida-my.sharepoint.com/:x:/g/personal/huang_sh_ufl_edu/EQDwipgH8W9Fv_El6wJchmMB6_nGdaoXhVK9AWW2Qiz05A?e=KWdvtW)
 
 ## Helpful links and documents 
 [Glider dynamic and kinematic (Google slides)](https://docs.google.com/presentation/d/1ZoWUVIz8ui_Dn70IyTKe48IgICiGGMTfywm1vR88lHo/edit?usp=sharing)
